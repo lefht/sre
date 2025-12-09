@@ -210,25 +210,3 @@ Sometimes the best troubleshooting move is damage control while you investigate 
 4. **Saturation** - How "full" your service is
 
 ---
-
-## Contributing
-
-Found a technique that works well? Have suggestions for improvement? Contributions are welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add troubleshooting technique'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
----
-
-## License
-
-This guide is released under the MIT License. Feel free to use and adapt for your team.
-
----
-
-**Remember:** The goal is bringing structured thinking to any problem rather than randomly trying things and hoping something works. This methodical approach scales from simple issues to the most complex distributed system failures.
-
-Happy troubleshooting! 🚀
